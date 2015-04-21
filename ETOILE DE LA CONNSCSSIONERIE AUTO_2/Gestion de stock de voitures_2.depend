@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1366539925 source:c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.h"
+
+1370207325 c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1370251438 source:c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+	"time.h"
+
+1370251901 source:c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\main.c
+	"Fonctions.h"
+	"conio.c"
+	"conio2.h"
+	"time.h"
+
+1091539152 c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091539152 c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\conio2.h
+	<conio.h>
+	<windows.h>
+

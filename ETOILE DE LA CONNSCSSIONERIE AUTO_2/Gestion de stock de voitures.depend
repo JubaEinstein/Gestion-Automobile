@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1364249052 source:c:\users\sidali\desktop\etudes\gestion de stock de voitures\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1364248742 source:c:\users\sidali\desktop\etudes\gestion de stock de voitures\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1364136486 c:\users\sidali\desktop\etudes\gestion de stock de voitures\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+
+1364232684 source:c:\users\sidali\desktop\etudes\gestion de stock de voitures\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1364232684 source:c:\users\sidali\desktop\gestion de stock de voitures\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1364248742 source:c:\users\sidali\desktop\gestion de stock de voitures\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1364253741 c:\users\sidali\desktop\gestion de stock de voitures\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+
+1364249052 source:c:\users\sidali\desktop\gestion de stock de voitures\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1364232686 source:h:\gestion de stock de voitures\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1364248744 source:h:\gestion de stock de voitures\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1364253742 h:\gestion de stock de voitures\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+
+1365328046 source:h:\gestion de stock de voitures\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1366239517 source:c:\users\msia\desktop\gestion de stock de voitures\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.h"
+
+1366495502 source:c:\users\msia\desktop\gestion de stock de voitures\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+	"time.h"
+
+1366495502 c:\users\msia\desktop\gestion de stock de voitures\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1366490238 source:c:\users\msia\desktop\gestion de stock de voitures\main.c
+	"Fonctions.h"
+	"conio.c"
+	"conio2.h"
+	"time.h"
+
+1091539152 c:\users\msia\desktop\gestion de stock de voitures\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091539152 c:\users\msia\desktop\gestion de stock de voitures\conio2.h
+	<conio.h>
+	<windows.h>
+
+1091539152 source:c:\users\msia\desktop\gestion de stock de voitures\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1366539925 source:c:\users\msia\desktop\agoun_kherfellah_zeghlach_tp1_g7.zip\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.h"
+
+1366495502 c:\users\msia\desktop\agoun_kherfellah_zeghlach_tp1_g7.zip\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1366543057 source:c:\users\msia\desktop\agoun_kherfellah_zeghlach_tp1_g7.zip\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+	"time.h"
+
+1366543057 source:c:\users\msia\desktop\agoun_kherfellah_zeghlach_tp1_g7.zip\main.c
+	"Fonctions.h"
+	"conio.c"
+	"conio2.h"
+	"time.h"
+
+1091539152 c:\users\msia\desktop\agoun_kherfellah_zeghlach_tp1_g7.zip\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091539152 c:\users\msia\desktop\agoun_kherfellah_zeghlach_tp1_g7.zip\conio2.h
+	<conio.h>
+	<windows.h>
+
+1366539925 source:c:\users\msia\desktop\,\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.h"
+
+1366495502 c:\users\msia\desktop\,\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1366543057 source:c:\users\msia\desktop\,\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+	"time.h"
+
+1366543057 source:c:\users\msia\desktop\,\main.c
+	"Fonctions.h"
+	"conio.c"
+	"conio2.h"
+	"time.h"
+
+1091539152 c:\users\msia\desktop\,\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091539152 c:\users\msia\desktop\,\conio2.h
+	<conio.h>
+	<windows.h>
+
+1366539925 source:c:\users\msia\desktop\s_2\,\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.h"
+
+1370207325 c:\users\msia\desktop\s_2\,\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1370240394 source:c:\users\msia\desktop\s_2\,\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+	"time.h"
+
+1370240928 source:c:\users\msia\desktop\s_2\,\main.c
+	"Fonctions.h"
+	"conio.c"
+	"conio2.h"
+	"time.h"
+
+1091539152 c:\users\msia\desktop\s_2\,\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091539152 c:\users\msia\desktop\s_2\,\conio2.h
+	<conio.h>
+	<windows.h>
+
+1366539925 source:c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.h"
+
+1370207325 c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1370251438 source:c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+	"time.h"
+
+1370251901 source:c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\main.c
+	"Fonctions.h"
+	"conio.c"
+	"conio2.h"
+	"time.h"
+
+1091539152 c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091539152 c:\users\msia\desktop\s_2\etoile de la connscssionerie auto\conio2.h
+	<conio.h>
+	<windows.h>
+
+1366539925 source:c:\users\msia\desktop\s_2\etoile de la connscssionerie auto_2\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.h"
+
+1370207325 c:\users\msia\desktop\s_2\etoile de la connscssionerie auto_2\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1383405526 source:c:\users\msia\desktop\s_2\etoile de la connscssionerie auto_2\main.c
+	"Fonctions.h"
+	"conio.c"
+	"conio2.h"
+	"time.h"
+
+1091539152 c:\users\msia\desktop\s_2\etoile de la connscssionerie auto_2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091539152 c:\users\msia\desktop\s_2\etoile de la connscssionerie auto_2\conio2.h
+	<conio.h>
+	<windows.h>
+
+1383296025 source:c:\users\msia\desktop\s_2\etoile de la connscssionerie auto_2\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+	"time.h"
+
+1366539925 source:d:\1cpi h\s_2\etoile de la connscssionerie auto_2\chaine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.h"
+
+1370207325 d:\1cpi h\s_2\etoile de la connscssionerie auto_2\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1383296025 source:d:\1cpi h\s_2\etoile de la connscssionerie auto_2\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+	"time.h"
+
+1383517795 source:d:\1cpi h\s_2\etoile de la connscssionerie auto_2\main.c
+	"Fonctions.h"
+	"conio.c"
+	"conio2.h"
+	"time.h"
+
+1091539152 d:\1cpi h\s_2\etoile de la connscssionerie auto_2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1091539152 d:\1cpi h\s_2\etoile de la connscssionerie auto_2\conio2.h
+	<conio.h>
+	<windows.h>
+
